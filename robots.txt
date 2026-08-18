@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbcx07.github.io/blog-womenwellnesshub/sitemap.xml
